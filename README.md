@@ -29,7 +29,7 @@ const mixaoc = {
     }
 };
 
-console.log("Let's build something amazing! 🔥");
+console.log("Let's build something amazing! 🔥 :3 ");
 ```
 
 <br clear="right"/>
@@ -142,7 +142,6 @@ Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/user/187
 
 ---
 
-## 🌟 Random Dev Quote
 
 <div align="center">
 
