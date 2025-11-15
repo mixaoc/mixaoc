@@ -21,7 +21,7 @@ const mixaoc = {
     location: "🇨🇦 Canada",
     languages: ["🇫🇷 French", "🇬🇧 English"],
     experience: "8 years",
-    passion: "Creating unique stuff",
+    passion: "Creating unique stuff ,  And Love Bear :3 ",
     website: "mixaoc.com",
     platforms: {
         firefox: "Extension Developer",
