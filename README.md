@@ -79,18 +79,6 @@ console.log("Let's build something amazing! 🔥 :3 ");
 
 <br/><br/>
 
-### 🔍 Osint-Sync
-**Firefox Extension for OSINT Research**
-
-A powerful browser extension designed for investigators and security researchers. 
-Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/user/18714162/)
-
-🚀 **Features:**
-- Efficient data synchronization
-- Enhanced research workflows  
-- Privacy-focused design
-
-</div>
 
 ---
 
