@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mixaoc&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
-# 👋 Welcome to my Digital Playground
+# 👋 Welcome :3
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Developer+from+Canada+%F0%9F%8D%81+%7C+8+Years+of+Experience;Building+Original+%26+Creative+Projects+%F0%9F%9A%80;French+%2B+English+Speaker+%F0%9F%8C%8D;Firefox+Extension+Developer+%F0%9F%A6%8A" alt="Typing SVG" />
 
