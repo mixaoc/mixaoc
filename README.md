@@ -124,17 +124,7 @@ Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/user/187
 
 ---
 
-## 💡 What I Believe
 
-<div align="center">
-
-```diff
-+ Original ideas over copying trends
-+ Real solutions for actual problems  
-+ Privacy and security matter
-+ Clean code is beautiful code
-+ 8 years in, still learning every day
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
