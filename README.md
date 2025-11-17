@@ -24,7 +24,7 @@ const mixaoc = {
     passion: "Creating unique stuff ,  And Love Bear :3 ",
     website: "mixaoc.com",
     platforms: {
-        firefox: "Extension Developer",
+        about: "Developer Miachel jordan Prime ⛹️‍♂️",
         github: "Open Source Contributor"
     }
 };
